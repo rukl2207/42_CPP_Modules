@@ -1,0 +1,10 @@
+*.out*
+*tmp*
+.vscode/
+.DS_Store
+.idea
+*.o
+#*subject*
+/ex01/iter
+/ex00/whatever
+/ex02/array
