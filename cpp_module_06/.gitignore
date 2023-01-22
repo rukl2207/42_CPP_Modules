@@ -1,0 +1,10 @@
+*.out*
+*tmp*
+.vscode/
+.DS_Store
+.idea
+*.o
+#*subject*
+/ex00/convert
+/ex01/serialization
+/ex02/base
