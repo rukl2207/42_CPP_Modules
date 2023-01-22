@@ -1,0 +1,10 @@
+*.out*
+*tmp*
+.vscode/
+.DS_Store
+.idea
+*.o
+#*subject*
+/ex00/easyfind
+/ex01/span
+/ex02/mutant_stack
