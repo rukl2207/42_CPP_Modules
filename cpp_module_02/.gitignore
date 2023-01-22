@@ -1,0 +1,14 @@
+notes_read_me.txt
+*.out*
+*tmp*
+.vscode/
+.DS_Store
+.idea
+*.o
+#*subject*
+*.txt*
+*.replace
+/ex00/fixed_00
+/ex01/fixed_01
+/ex02/fixed_02
+/ex03/bsp
