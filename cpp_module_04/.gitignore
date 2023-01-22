@@ -1,0 +1,13 @@
+*.out*
+*tmp*
+.vscode/
+.DS_Store
+.idea
+*.o
+#*subject*
+*.txt*
+*.replace
+/ex00/animals_00
+/ex01/animals_01
+/ex02/animals_02
+/ex03/interface
