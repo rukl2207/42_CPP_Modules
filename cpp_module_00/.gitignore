@@ -1,0 +1,14 @@
+notes_read_me.txt
+*.out*
+*tmp*
+.vscode/
+.DS_Store
+.idea
+*.o
+#*subject*
+*.txt*
+*.replace
+#*.log
+/ex01/phonebook
+/ex00/megaphone
+/ex02/account
