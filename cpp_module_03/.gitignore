@@ -1,0 +1,14 @@
+notes_read_me.txt
+*.out*
+*tmp*
+.vscode/
+.DS_Store
+.idea
+*.o
+#*subject*
+*.txt*
+*.replace
+/ex00/ClapTrap
+/ex01/ScavTrap
+/ex02/FragTrap
+/ex03/DiamondTrap
